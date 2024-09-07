@@ -1,3 +1,6 @@
+A Table for a systematic review of UNet-Like change detection. For the complete article, please refer to 
+C. Wu, L. Zhang, B. Du et al., “UNet-Like Remote Sensing Change Detection: A review of current models and research directions,” IEEE Geoscience and Remote Sensing Magazine, pp. 2-31, 2024. (https://ieeexplore.ieee.org/abstract/document/10616141)
+
 #### APPENDIX TABLE I SYSTEMATIC REVIEW OF UNET-LIKE CHANGE DETECTION MODELS CORRESPONDING TO DIFFRENT BLOCKS
 |  | Name | Year | Encoder Structure | Symmetry | Encoder module | Feature to Decoder | Skip-connection | Data fusion | Loss |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
